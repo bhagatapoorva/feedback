@@ -1,4 +1,6 @@
 # feedback
+A user feedback tool is a tool that is used on your website or mobile app to discover how users experience your online service. A wise consideration, because with customer feedback you are given an overview of where exactly on your website you should make changes and improvements.
+
 Feedback tool similar to Google's.
 
 This is a very early alpha version, with a couple of [known issues](#known-issues), a complete rewrite. Should be more performant and less buggy (hopefully).
@@ -53,6 +55,7 @@ You can read about `HTML2CanvasOptions` here: http://html2canvas.hertzen.com/con
 - Missing icons
 - Default texts should be written appropriately
 - Not many options at the moment
+- Html2canvas doesn't render tainted image urls on image creation.
 
 ### Build instructions
 
